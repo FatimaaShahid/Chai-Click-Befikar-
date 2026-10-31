@@ -14,7 +14,9 @@ people who feel less confident using smartphones.**
   Team member         Responsibility
   ------------------- ----------------------------------------------
   \[Fatima Shahid\]   Frontend and user interface
+  
   \[Asra Siddiqui\]   Simulation engine and interaction logic
+  
   \[Haseeb ALvi\]   Learning flow, scenarios, and progress logic
 
 ## Target Users and Problem
