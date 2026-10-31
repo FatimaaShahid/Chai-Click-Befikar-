@@ -8,6 +8,8 @@ people who feel less confident using smartphones.**
 ## Live Demo
 video link :https://drive.google.com/drive/folders/1cSM_YNKXbYwK0JZ4WcMq9Em7UoYm2SDp?usp=sharing
 
+Pitch Link: https://drive.google.com/file/d/1jxjsowAyVUKY-HS6aNyBIQPGIXqyx5kS/view?usp=sharing
+
 **Try Chai & Clicks — Befikar:** (https://chai-and-clicks-befikar.netlify.app/)
 
 ------------------------------------------------------------------------
