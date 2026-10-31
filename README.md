@@ -217,9 +217,6 @@ integration.
   Repository URL                      \[https://github.com/FatimaaShahid/Chai-Click-Befikar-\]
 
   Submission date                     \[31-oct'2026\]
-  -----------------------------------------------------------------------
-:
-
 ------------------------------------------------------------------------
 
 ## Project Goal
