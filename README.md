@@ -7,7 +7,7 @@ people who feel less confident using smartphones.**
 
 ## Live Demo
 
-**Try Chai & Clicks — Befikar:** [Open Live Demo]((https://chai-and-clicks-befikar.netlify.app/))
+**Try Chai & Clicks — Befikar:** (https://chai-and-clicks-befikar.netlify.app/)
 
 ------------------------------------------------------------------------
 
