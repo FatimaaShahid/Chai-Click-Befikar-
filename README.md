@@ -5,6 +5,10 @@ people who feel less confident using smartphones.**
 
 > **Make mistakes. Understand them. Undo the fear.**
 
+## Live Demo
+
+**Try Chai & Clicks — Befikar:** [Open Live Demo]((https://chai-and-clicks-befikar.netlify.app/))
+
 ------------------------------------------------------------------------
 
 ## Team
