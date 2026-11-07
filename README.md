@@ -73,6 +73,57 @@ right the first time.
 -   **Saved preferences/progress:** retain selected language and
     supported progress between visits.
 
+## ☕ A Peek Inside — The Experience
+
+A closer look at the interface, visual storytelling, and interactive
+learning experience behind Chai & Clicks — Befikar.
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="Frontend_snapshots/Frontend.jpeg">
+        <img src="Frontend_snapshots/Frontend.jpeg" width="100%">
+      </a>
+      <p align="center"><b>01. The Welcome Experience</b><br>
+      <sub>A warm and welcoming introduction to digital learning.</sub></p>
+    </td>
+    <td width="50%">
+      <a href="Frontend_snapshots/2.jpeg">
+        <img src="Frontend_snapshots/2.jpeg" width="100%">
+      </a>
+      <p align="center"><b>02. Explore & Learn</b><br>
+      <sub>An intuitive interface designed for effortless exploration.</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="Frontend_snapshots/3.jpeg">
+        <img src="Frontend_snapshots/3.jpeg" width="100%">
+      </a>
+      <p align="center"><b>03. Interactive Simulations</b><br>
+      <sub>Learn through realistic, guided digital experiences.</sub></p>
+    </td>
+    <td width="50%">
+      <a href="Frontend_snapshots/4.jpeg">
+        <img src="Frontend_snapshots/4.jpeg" width="100%">
+      </a>
+      <p align="center"><b>04. Characters & Storytelling</b><br>
+      <sub>Friendly visual elements that make learning less intimidating.</sub></p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="Frontend_snapshots/5.jpeg">
+    <img src="Frontend_snapshots/5.jpeg" width="75%">
+  </a>
+  <br>
+  <b>05. The Little Details</b>
+  <br>
+  <sub>Thoughtful UI details that bring the experience together.</sub>
+</p>
+
+
 ## Technology Stack
 
   -----------------------------------------------------------------------
@@ -214,9 +265,6 @@ demo-only interaction so judges can distinguish it from a live
 integration.
 
 ## Final Submission
-
-  -----------------------------------------------------------------------
-  Submission detail                   Value
   ----------------------------------- -----------------------------------
   Project                             Chai & Clicks --- Befikar
 
